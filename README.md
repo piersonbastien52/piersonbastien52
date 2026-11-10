@@ -46,3 +46,8 @@
 </div>
 
 ###
+
+![LinkedIn](www.linkedin.com/in/bastien-pierson-76b295206)
+
+
+###
