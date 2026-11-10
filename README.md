@@ -2,6 +2,11 @@
 
 ###
 
+
+<p data-importer="text" align="center">The different apps I use</p>
+
+###
+
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
@@ -24,7 +29,7 @@
 
 ###
 
-<p data-importer="text" align="center">you can contact me on linkdin, discord or mail</p>
+<p data-importer="text" align="center">You can contact me on linkdin, discord or mail</p>
 
 ###
 <div data-importer="socials" align="center">
